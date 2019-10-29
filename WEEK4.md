@@ -8,4 +8,5 @@
 因为注释中显示自2006年起，生活垃圾填埋场的统计采用新的认定标准，生活垃圾无害化处理数据与往年不可比，因此我选择了从2006年到2017年的数据来做分析。
 ### 数据处理及呈现 ###
 ·首先是无害化垃圾处理场（厂）数量在2006年-2017年的变化：
-！[中国2006年-2017年生活垃圾无害化处理场（厂）数量及年增长率变化图](https://github.com/mrbeaver1999/datajournalism2017/blob/master/处理厂.png)
+![中国2006年-2017年生活垃圾无害化处理场（厂）数量及年增长率变化图](https://github.com/mrbeaver1999/datajournalism2017/blob/master/处理厂.png)
+![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
